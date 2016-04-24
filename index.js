@@ -63,7 +63,7 @@ $(document).ready(function() {
 
       // initialize tooltip
       var tip = d3.select(".content").append("div")
-        .attr("class", "tooltip")
+        .attr("class", "tooltip-custon")
         .style("visibility", "hidden");
 
       // radius and color scales

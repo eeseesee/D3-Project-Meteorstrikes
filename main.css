@@ -22,7 +22,7 @@ body {
   border: none;
 }
 
-.tooltip {
+.tooltip-custom {
   position: absolute;
   text-align: left;
   font-size: 12px;
