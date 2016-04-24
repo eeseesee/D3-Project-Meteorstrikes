@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: white;
+  color: #424242;
+}
+
+.title {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+.content {
+  text-align: center;
+}
+
+.chart {
+  margin: 0px auto;
+  padding: 0px;
+  background-color: white;
+  border: none;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: left;
+  font-size: 12px;
+  font-family: sans-serif;
+  line-height: 14px;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+}
+
+.legend {
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
